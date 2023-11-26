@@ -9,7 +9,7 @@ class Task:
         return f"ID: {self.id_i}, Title: {self.title}, Status: {self.status}"
 
     def update_status(self, new_status):
-        self.status = new_status or self.status
+        self.status = new_status
 
 if __name__ == "__main__":
     t1 = Task("1", "a")
