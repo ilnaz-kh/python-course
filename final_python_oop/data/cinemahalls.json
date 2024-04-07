@@ -1,0 +1,15 @@
+{
+    "id_count": 1113,
+    "data": {
+        "C1111": {
+            "cinemahall_id": "C1111",
+            "name": "Rose",
+            "total_seats": 50
+        },
+        "C1112": {
+            "cinemahall_id": "C1112",
+            "name": "Tulip",
+            "total_seats": 25
+        }
+    }
+}

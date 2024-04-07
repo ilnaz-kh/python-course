@@ -1,0 +1,50 @@
+{
+    "id_count": 1116,
+    "data": {
+        "R1111": {
+            "reservation_id": "R1111",
+            "user_id": "U1111",
+            "show_id": "S1111",
+            "seat_number": 2,
+            "reservation_date": "2024-01-17 14:39:34",
+            "cancel_date": null,
+            "status": "confirmed"
+        },
+        "R1112": {
+            "reservation_id": "R1112",
+            "user_id": "U1111",
+            "show_id": "S1112",
+            "seat_number": 1,
+            "reservation_date": "2024-01-17 14:39:34",
+            "cancel_date": "2024-01-17 14:43:25",
+            "status": "cancelled"
+        },
+        "R1113": {
+            "reservation_id": "R1113",
+            "user_id": "U1111",
+            "show_id": "S1112",
+            "seat_number": 2,
+            "reservation_date": "2024-01-17 14:39:34",
+            "cancel_date": null,
+            "status": "confirmed"
+        },
+        "R1114": {
+            "reservation_id": "R1114",
+            "user_id": "U1112",
+            "show_id": "S1112",
+            "seat_number": 9,
+            "reservation_date": "2024-01-17 15:43:01",
+            "cancel_date": null,
+            "status": "confirmed"
+        },
+        "R1115": {
+            "reservation_id": "R1115",
+            "user_id": "U1112",
+            "show_id": "S1112",
+            "seat_number": 10,
+            "reservation_date": "2024-01-17 15:43:01",
+            "cancel_date": null,
+            "status": "confirmed"
+        }
+    }
+}

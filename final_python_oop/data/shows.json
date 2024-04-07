@@ -1,0 +1,29 @@
+{
+    "id_count": 1113,
+    "data": {
+        "S1111": {
+            "show_id": "S1111",
+            "movie_id": "278",
+            "cinemahall_id": "C1112",
+            "show_date": "2024-01-25",
+            "show_number": 1,
+            "status": "Upcoming",
+            "occupied_seats": [
+                2
+            ]
+        },
+        "S1112": {
+            "show_id": "S1112",
+            "movie_id": "639",
+            "cinemahall_id": "C1111",
+            "show_date": "2024-01-20",
+            "show_number": 2,
+            "status": "Finished",
+            "occupied_seats": [
+                2,
+                9,
+                10
+            ]
+        }
+    }
+}
