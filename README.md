@@ -14,7 +14,7 @@
 - Exercise 21 & 22: OOP
 - Exercise 23: OOP
 - Final Project: OOP Python - Cinema Reservation System
-- Exercise 24 & 25: DataBases: MySQL
+- Exercise 24 & 25: DataBases - MySQL
 - Exercise 26: DataBases - MySQL
 - Exercise 27: DataBases - MongoDB
 - Exercise 28 & 29: DataBases - MongoDB, Numpy
